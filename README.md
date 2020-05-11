@@ -2,6 +2,12 @@
 
 A collection of Jupyter Notebooks experimenting with the OpenPulse framework
 
+## Purpose and Status
+
+OpenPulse was investigated as a potential tool in an ongoing Protein Mapping project but was deemed unsuitable due to its lack of scalability and inability to perform what the organization wanted.
+
+The repository will no longer be active but could potentially be revisited for some future work.
+
 ## Launch Environment
 Uses the QCaD [Hephaestus](https://github.com/Quantum-Computing-at-Davis/Hephaestus) environment.
 
